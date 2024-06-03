@@ -64,3 +64,13 @@ slmgr/xpr
 - [Link download](https://1drv.ms/f/s!AmvuvqBBIcK6h1BGnyJy3qzmrgHH?e=rrHpWO)
 - [Hoặc link](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EuwdtWtEejJBlh-6UzR6wlcBvvNn5BgrQVfhDFKvGgoQjg?e=anGm5X)
 - [Link dự phòng](https://terabox.com/s/1X23B2MPB0GMZtW8YYJOhnw)
+
+### Ghi chú: ###
+  - Windows của bạn đã kích hoạt vĩnh viễn, một ngày đẹp trời bạn nghịch gợm nó chỉ còn:
+  - ![image](https://github.com/BsNgChiThanh/Kich-hoat-Windows/assets/82578024/a89b76a1-5d3c-4a4d-a2de-449887182da2)
+  - Hãy bấm: **TroubleShoot**
+  - ![image](https://github.com/BsNgChiThanh/Kich-hoat-Windows/assets/82578024/381e6098-1f85-44f7-863e-db1c872a91e7)
+  - Chờ vài phút...
+  - OK
+
+
