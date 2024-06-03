@@ -6,7 +6,7 @@ if %errorlevel% EQU 0 (cscript //nologo slmgr.vbs /ipk NW6C2-QMPVW-D7KKK-3GKT6-V
 if %errorlevel% EQU 0 (cscript //nologo slmgr.vbs /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX >nul||cscript //nologo slmgr.vbs /ipk MH37W-N47XK-V7XM9-C7227-GCQG9 >nul||cscript //nologo slmgr.vbs /ipk NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J >nul||cscript //nologo slmgr.vbs /ipk 9FNHH-K3HBT-3W4TD-6383H-6XYWF >nul||cscript //nologo slmgr.vbs /ipk 6TP4R-GNPTD-KYYHQ-7B7DP-J447Y >nul||cscript //nologo slmgr.vbs /ipk YVWGF-BXNMC-HTQYQ-CPQ99-66QFC >nul&goto skms) else (goto notsupported)
 :skms
 if %i% GTR 10 goto busy
-if %i% EQU 1 set KMS=kms7.MSGuides.com
+if %i% EQU 1 set KMS=kms.srv.crsoo.com
 if %i% EQU 2 set KMS=kms8.MSGuides.com
 if %i% EQU 3 set KMS=kms9.MSGuides.com
 if %i% GTR 3 goto ato
