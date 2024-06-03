@@ -70,6 +70,7 @@ slmgr/xpr
   - ![image](https://github.com/BsNgChiThanh/Kich-hoat-Windows/assets/82578024/a89b76a1-5d3c-4a4d-a2de-449887182da2)
   - Hãy bấm: **TroubleShoot**
   - ![image](https://github.com/BsNgChiThanh/Kich-hoat-Windows/assets/82578024/381e6098-1f85-44f7-863e-db1c872a91e7)
+  - ![image](https://github.com/BsNgChiThanh/Kich-hoat-Windows/assets/82578024/fb59a319-b5f2-4e42-afed-9df9dcc9fa9b)
   - Chờ vài phút...
   - OK
 
