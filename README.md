@@ -62,7 +62,6 @@ slmgr/xpr
 
 ## [TOOL WINDOWS UPDATE](https://1drv.ms/f/s!AmvuvqBBIcK6h1BGnyJy3qzmrgHH?e=rrHpWO) ##
 - [Link download](https://1drv.ms/f/s!AmvuvqBBIcK6h1BGnyJy3qzmrgHH?e=rrHpWO)
-- [Hoặc link](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EuwdtWtEejJBlh-6UzR6wlcBvvNn5BgrQVfhDFKvGgoQjg?e=anGm5X)
 - [Link dự phòng](https://terabox.com/s/1X23B2MPB0GMZtW8YYJOhnw)
 
 ### Ghi chú: ###
