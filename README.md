@@ -38,6 +38,16 @@ Tác giả: Nguyễn Chí Thành
 - Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools 
 - Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL 
 - [Windows loader](https://raw.githubusercontent.com/BsNgChiThanh/Kich-hoat-Windows/IMP/Windows%20Loader.exe) hoặc [bấm vào đây](https://raw.githubusercontent.com/BsNgChiThanh/Kich-hoat-Windows/IMP/congdongbatdongsan_Windows%20Loader.rar) pass giải nén: congdongbatdongsan. Link [dự phòng](https://1drv.ms/u/s!AmvuvqBBIcK6hz1yukETWHUUsXea?e=4d2kTv)
+- Code cmd:
+
+```php
+slmgr /upk
+slmgr /cpky
+slmgr.vbs /ipk KHMQ2-C86FT-M3DDC-Q8JTC-DYPYV
+slmgr /skms sethst:107.175.77.7
+slmgr.vbs /xpr
+slmgr /ato
+```
 
 # AUTO RENEW WINDOWS: #
 - [Trang chủ nói về Renew](https://msguides.com/renew-kms-license-manually)
