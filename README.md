@@ -38,7 +38,7 @@ Tác giả: Nguyễn Chí Thành
 - Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools 
 - Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL 
 - [Windows loader](https://raw.githubusercontent.com/BsNgChiThanh/Kich-hoat-Windows/IMP/Windows%20Loader.exe) hoặc [bấm vào đây](https://raw.githubusercontent.com/BsNgChiThanh/Kich-hoat-Windows/IMP/congdongbatdongsan_Windows%20Loader.rar) pass giải nén: congdongbatdongsan. Link [dự phòng](https://1drv.ms/u/s!AmvuvqBBIcK6hz1yukETWHUUsXea?e=4d2kTv)
-- Code cmd:
+- Code cmd [click here](https://raw.githubusercontent.com/BsNgChiThanh/Kich-hoat-Windows/IMP/ActiveWindows7byKey.cmd)
 
 ```php
 slmgr /upk
