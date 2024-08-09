@@ -5,7 +5,7 @@ Tác giả: Nguyễn Chí Thành
 - [Windows 11](https://msguides.com/windows-11) dự phòng [source](https://1drv.ms/t/s!AmvuvqBBIcK6hz7KYN9F6PxyeN6Y?e=96lXuI)
 - [Windows 10](https://msguides.com/windows-10) dự phòng [source](https://1drv.ms/t/s!AmvuvqBBIcK6hzGJBnNDmBtIDYHQ?e=woVQWW)
 - [Windows 8 và 8.1](https://msguides.com/windows-8-1) dự phòng [source](https://1drv.ms/t/s!AmvuvqBBIcK6hzJ3qH2oadQIimLU?e=tTFtfH)
-- [Windows 7](https://msguides.com/windows-7) dự phòng [source](https://1drv.ms/t/s!AmvuvqBBIcK6hzC-hajlOGqTlU1n?e=S1H0t8)
+- [Windows 7](https://msguides.com/windows-7) dự phòng [source](https://1drv.ms/t/s!AmvuvqBBIcK6hzC-hajlOGqTlU1n?e=S1H0t8) hoặc [click here](https://github.com/BsNgChiThanh/Kich-hoat-Windows/blob/IMP/ActiveWindows7byKey.cmd)
 - [Kích hoạt mọi Windows](https://1drv.ms/t/s!AmvuvqBBIcK6hzXeEUdQqkVTflD7?e=52XJat)
 
 # Windows11 #
