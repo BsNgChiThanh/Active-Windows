@@ -14,7 +14,17 @@ Tác giả: Nguyễn Chí Thành
 ## Tool kích hoạt ##
 - Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO 
 - Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools 
-- Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL 
+- Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL
+- Windows 10, 11 Pro:
+  
+  ```php
+  slmgr /upk
+  slmgr /cpky
+  slmgr.vbs /ipk JRJNJ-33PKM-QTPCV-9XYCY-B4G6Y
+  slmgr /skms sethst:107.175.77.7
+  slmgr.vbs /xpr
+  slmgr /ato
+  ```
 
 # Windows10 #
 - Source Windows 10: https://massgrave.dev/windows_10_links.html
@@ -23,6 +33,16 @@ Tác giả: Nguyễn Chí Thành
 - Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/ 
 - Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL 
 - Dùng W 10 DigitalLicenseActivationScrip: https://github.com/BsNgChiThanh/W10DigitalLicenseActivationScrip
+- Windows 10, 11 Pro:
+  
+  ```php
+  slmgr /upk
+  slmgr /cpky
+  slmgr.vbs /ipk JRJNJ-33PKM-QTPCV-9XYCY-B4G6Y
+  slmgr /skms sethst:107.175.77.7
+  slmgr.vbs /xpr
+  slmgr /ato
+  ```
 
 # Windows8-8.1 #
 - Source Windows 8.1: https://massgrave.dev/windows_8.1_links.html
@@ -30,7 +50,17 @@ Tác giả: Nguyễn Chí Thành
 - Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO 
 - Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/ 
 - Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL/ 
-
+- Windows 8.1 Pro:
+  
+  ```php
+  slmgr /upk
+  slmgr /cpky
+  slmgr.vbs /ipk C8D8Y-QF8XC-7YFWM-YQ9BB-4FXN3
+  slmgr /skms sethst:107.175.77.7
+  slmgr.vbs /xpr
+  slmgr /ato
+  ```
+  
 # Active Windows7 #
 - Source Windows 7: https://massgrave.dev/windows_7_links.html
 ## Tool kích hoạt ##
