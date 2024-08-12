@@ -50,7 +50,7 @@ Tác giả: Nguyễn Chí Thành
 - Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO 
 - Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/ 
 - Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL/ 
-- Windows 8.1 Pro:
+- Windows 8.1:
   
   ```php
   slmgr /upk
