@@ -1,6 +1,9 @@
 Tác giả: Nguyễn Chí Thành
 
 ![IMG_1674314482411_1674314628494](https://user-images.githubusercontent.com/82578024/231744623-75153615-ce39-4498-a314-978f2605dc6a.jpg)
+
+![image](https://github.com/BsNgChiThanh/Lich-phong-kham/assets/82578024/d575f08f-29b1-4848-83b0-fb5e88dcb50c)
+
 # TRANG CHỦ KÍCH HOẠT CMD #
 - [Windows 11](https://msguides.com/windows-11) dự phòng [source](https://1drv.ms/t/s!AmvuvqBBIcK6hz7KYN9F6PxyeN6Y?e=96lXuI)
 - [Windows 10](https://msguides.com/windows-10) dự phòng [source](https://1drv.ms/t/s!AmvuvqBBIcK6hzGJBnNDmBtIDYHQ?e=woVQWW)
